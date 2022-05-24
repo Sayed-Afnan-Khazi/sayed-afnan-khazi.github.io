@@ -5,7 +5,7 @@ My name is Sayed Afnan Khazi and I'm an enthusiastic learner, coder and pianist.
 My Resume : [Resume link](/Sayed-Afnan-Khazi-CV-HP.pdf)
 
 ## Projects
-### [Supermarket Application](https://github.com/Sayed-Afnan-Khazi/Supermarket-App)
+### 1. [Supermarket Application](https://github.com/Sayed-Afnan-Khazi/Supermarket-App)
   Worked on making a comprehensive supermarket application, including all aspects from checkout & billing (POS), inventory & stock management (Including restock warnings), employee details, pay and attendance management.
   -Coded in Python and interfaced with MySQL for Database management.
 What I learned from doing this project:
