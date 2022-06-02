@@ -15,6 +15,7 @@ What I learned from doing this project:
   - Validating data and exchanging it back and forth between a python script and database.
   - Working with different types of files (csv, binary,text and others)
   - Creating an easy way for the project to be run on other machines by saving MySQL credentials in an env file.
+
 ### 2. [Black Jack Card Game](https://github.com/Sayed-Afnan-Khazi/BlackJack-Card-Game)
   Coding project to recreate the card game "Blackjack" with one user playing against the computer.
   - This is one of the first projects where I __extensively used OOP__ (Object Oriented Programming) to make the game possible.
